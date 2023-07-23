@@ -20,6 +20,7 @@
 - **Linux**：<a href="https://www.linux.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/></a>
 - **MySQL**：<a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a>
 - **Postman**：<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+- **Python**：<a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
 
 ### Github 状态 📊
 
