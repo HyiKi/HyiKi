@@ -6,7 +6,7 @@
 - **Postgres**：<a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/></a>
 - **Jira**：<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/></a>
 - **Kubernetes (K8s)**：<a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-- **Apollo**：<a href="https://github.com/ctripcorp/apollo" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="apollo" width="40" height="40"/></a>
+- **ApolloConfig**：<a href="https://github.com/apolloconfig/apollo" target="_blank"><img src="https://avatars.githubusercontent.com/u/83490506?s=48&v=4" alt="apollo" width="40" height="40"/></a>
 - **XXL-Job**：<a href="https://www.xuxueli.com/xxl-job/" target="_blank"><img src="https://camo.githubusercontent.com/bf64c32e4e66828e9dcc6c7e4c015512691e04340ab2a5cbc8ca840daf615546/68747470733a2f2f7777772e78757875656c692e636f6d2f646f632f7374617469632f78786c2d6a6f622f696d616765732f78786c2d6c6f676f2e6a7067" alt="xxl-job" width="40" height="40"/></a>
 - **Gerrit**：<a href="https://www.gerritcodereview.com/" target="_blank"><img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/6591682b1eca5a38bfa942529722f04925c3f3a3/src/drivers/webextension/images/icons/gerrit.svg" alt="gerrit" width="40" height="40"/></a>
 - **Jenkins**：<a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
