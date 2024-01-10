@@ -24,7 +24,7 @@
 
 ### Github 状态 📊
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyiKi&layout=compact&exclude_repo=HyiKi.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyiKi&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 [![HyiKi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyiKi)](https://github.com/HyiKi)
 
