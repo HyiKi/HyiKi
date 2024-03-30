@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I am Hyiki and I am currently Learning Python and Stable Diffusion!  
 
-<img align="right" alt="img" src="/Users/wanghaoxuan/Desktop/项目/HyiKi/asset/img/pic.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/HyiKi/HyiKi/blob/main/asset/img/pic.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on 🌱 : 
@@ -48,5 +48,6 @@ Welcome to my Github page! I am Hyiki and I am currently Learning Python and Sta
 </p>
 
 <sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/zhanglina94/zhanglina94/img/pic.jpg)</sub>
+
 If you want to know more, please refer to the my [website](https://hyiki.github.io).
 
