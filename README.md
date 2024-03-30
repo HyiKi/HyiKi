@@ -1,31 +1,52 @@
-## Hi everyone, HyiKi here. 🚀
+### Hi there 👋 This is Hyiki ！✨ 
 
-### 💻 I am continuously learning
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hyiki)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dango.little@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-ffa116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.cn/u/hyiki/)
 
-- **Spring**：<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-- **Postgres**：<a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/></a>
-- **Jira**：<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/></a>
-- **Kubernetes (K8s)**：<a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-- **ApolloConfig**：<a href="https://github.com/apolloconfig/apollo" target="_blank"><img src="https://avatars.githubusercontent.com/u/83490506?s=48&v=4" alt="apollo" width="40" height="40"/></a>
-- **XXL-Job**：<a href="https://www.xuxueli.com/xxl-job/" target="_blank"><img src="https://www.xuxueli.com/doc/static/xxl-job/images/xxl-logo.jpg" alt="xxl-job" width="40" height="40"/></a>
-- **Gerrit**：<a href="https://www.gerritcodereview.com/" target="_blank"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/gerrit.svg" alt="gerrit" width="40" height="40"/></a>
-- **Jenkins**：<a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-- **MyBatis**：<a href="https://mybatis.org/mybatis-3/" target="_blank"><img src="https://baomidou.com/img/logo.svg" alt="mybatis" width="40" height="40"/></a>
-- **Redis**：<a href="https://redis.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redisson" width="40" height="40"/></a>
-- **Skywalking**：<a href="http://skywalking.apache.org/" target="_blank"><img src="https://skywalking.apache.org/favicons/safari-pinned-tab.svg" alt="skywalking" width="40" height="40"/></a>
-- **Docker**：<a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
-- **Elastic**：<a href="https://www.elastic.co/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="40" height="40"/></a>
-- **Git**：<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-- **Java**：<a href="https://www.java.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a>
-- **Linux**：<a href="https://www.linux.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/></a>
-- **MySQL**：<a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a>
-- **Postman**：<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-- **Python**：<a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
+Welcome to my Github page! I am Hyiki and I am currently Learning Python and Stable Diffusion!  
 
-### Github 状态 📊
+<img align="right" alt="img" src="/Users/wanghaoxuan/Desktop/项目/HyiKi/asset/img/pic.jpg" width="50%" height="auto" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyiKi&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-### 开源项目 🌐
+#### 🌱 Things I am currently working on 🌱 : 
 
-👇
+- Java backend development engineer active in Cross-border Electronic Commerce field 
+- [My blogs` website](https://hyiki.github.io)
+- [My tools` website](https://hyiki.sbs)
+
+
+#### ⚡ Things recent ones I'm interested in ⚡ : 
+
+- Chat GPT
+- Stable Diffusion
+- AIGC
+- Text to Speech
+- Short Video
+
+#### 🌻 I am studying 🌻
+
+- Python
+- Stable Diffusion
+- Photography
+
+#### :computer: Programming languages and tools :computer: : 
+
+<p>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hyiki&show_icons=true&hide_border=true" />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+</p>
+
+<sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/zhanglina94/zhanglina94/img/pic.jpg)</sub>
+If you want to know more, please refer to the my [website](https://hyiki.github.io).
+
