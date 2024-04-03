@@ -19,7 +19,7 @@ Welcome to my Github page! I am Hyiki and I am currently Learning Python and Sta
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 
 - Chat GPT
-- Stable Diffusion
+- Image Generation
 - AIGC
 - Text to Speech
 - Short Video
