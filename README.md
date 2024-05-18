@@ -47,7 +47,7 @@ Welcome to my Github page! I am Hyiki and I am currently Learning Python and Sta
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/zhanglina94/zhanglina94/img/pic.jpg)</sub>
+<sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull picture</sub>
 
 If you want to know more, please refer to the my [website](https://hyiki.github.io).
 
